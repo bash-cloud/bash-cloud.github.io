@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://bash.github.io", // replace this with your deployed domain
+  website: "https://bash-cloud.github.io/portfolio", // replace this with your deployed domain
   author: "Mohameddin H.Bashir",
-  profile: "https://bash.github.io",
+  profile: "https://bash-cloud.github.io/",
   desc: "My Portfolio Page",
   title: "Home",
   ogImage: "astropaper-og.jpg",
